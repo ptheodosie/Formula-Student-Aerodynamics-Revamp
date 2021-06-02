@@ -19,7 +19,7 @@ For that reason, the design aims and objectives are listed here:
 1. Reduce yaw sensitivity of front wing
 
 ## New Front Wing Design
-The old front wing is shown in the left image. The new design created space under the nose for the air to go towards the diffusers that is more than double the one in the current car (see right image). The number of flaps was also reduced and simplified to be in accordance with the new sidepods placement. The endplates of the car were also switched from a blocking structure into a deflecting structure at 30 degrees to send the airflow outwards of the front wheels.
+The old front wing is shown in the top image. The new design created space under the nose for the air to go towards the diffusers that is more than double the one in the current car (see bottom image). The number of flaps was also reduced and simplified to be in accordance with the new sidepods placement. The endplates of the car were also switched from a blocking structure into a deflecting structure at 30 degrees to send the airflow outwards of the front wheels.
 
 ![image](https://user-images.githubusercontent.com/85165363/120496765-83f8e580-c3c6-11eb-8e8b-e2a3b08c3759.png)
 ![image](https://user-images.githubusercontent.com/85165363/120496785-88250300-c3c6-11eb-870a-cbe91719ed36.png)
