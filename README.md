@@ -25,7 +25,7 @@ The old front wing is shown in the left image. The new design created space unde
 ![image](https://user-images.githubusercontent.com/85165363/120514886-6b90c700-c3d6-11eb-85c5-052e201593d9.png)
 
 
-The top images show a CFD analysis of the old design and the botttom ones show it for the new design. It is seen that in the new concept the flow is conditioned better for the sidepods and downstream, that the flow doesn't leak in the sides of the chassis and that the diffuser is receiving it better.
+The top images show a CFD analysis of the old design and the botttom ones show it for the new design. It is seen that in the new concept the flow is conditioned better for the sidepods and downstream, that it doesn't leak in the sides of the chassis and that the diffuser is receiving it better.
 
 ![image](https://user-images.githubusercontent.com/85165363/120514749-4b610800-c3d6-11eb-8bf3-c618d3c0e7bd.png)
 ![image](https://user-images.githubusercontent.com/85165363/120514767-50be5280-c3d6-11eb-8d0c-11b3d48afb58.png)
