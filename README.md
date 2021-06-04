@@ -1,4 +1,4 @@
-# Formula-Student-Aerodynamics-Revamp
+# Formula Student Aerodynamics Revamp
 ![image](https://user-images.githubusercontent.com/85165363/120513374-e35df200-c3d4-11eb-86b5-8969e5d5e12e.png)
 
 ## Intro
